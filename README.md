@@ -1,1 +1,8 @@
 # SKINGPROGRAMMERS
+
+
+git clone https://github.com/LALASHERRY/SKINGPROGRAMMERS/
+
+cd SKINGPROGRAMMERS
+
+python Pro.py
